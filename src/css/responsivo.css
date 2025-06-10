@@ -135,13 +135,13 @@
         margin-top: 4%;
     }
 
-}
-
-@media (max-width: 350px) {
     .conteiner-menu {
-        background-color: rgb(132, 0, 255);
+        height: 20vh;
     }
 
+}
+
+@media (max-width: 375px) {
     .navegacao {
         position: absolute;
         top: 0;
@@ -218,5 +218,10 @@
     .direitos span {
         font-size: .5rem;
     }
+
+    .conteiner-menu {
+        height: 26vh;
+    }
+
 
 }
