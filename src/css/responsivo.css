@@ -231,7 +231,8 @@
 
     .descricao-vipmais p {
         text-align: left;
-        letter-spacing: 2px;
+        letter-spacing: 1px;
+        line-height: .7rem;
     }
 
     .logo-anatel {
