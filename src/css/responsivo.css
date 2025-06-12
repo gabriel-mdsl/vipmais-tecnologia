@@ -130,33 +130,27 @@
     .navegacao {
         position: absolute;
         top: 0;
-        width: 50%;
+        width: 100%;
         right: 0;
         margin-top: 4%;
     }
 
-    .conteiner-menu {
-        height: 20vh;
+    .logo {
+        width: 30%;
     }
-
 }
 
 @media (max-width: 375px) {
     .navegacao {
         position: absolute;
         top: 0;
-        width: 50%;
         right: 0;
-        margin-top: 4%;
+        margin-top: 5%;
     }
 
     .botao {
-        padding: 8px 18px 8px 18px;
+        padding: 6px 10px 8px 10px;
         font-size: .7rem;
-    }
-
-    .plano-bronze, .plano-ouro, .plano-diamante, .plano-premium, .plano-gamer, .banner-vip {
-        height: 20vh;
     }
 
     .todos-os-planos {
@@ -190,10 +184,7 @@
         margin: 0;
         font-size: .6rem;
     }
-    .logo {
-        width: 30%;
-    }
-
+    
     .descricao-vipmais {
         font-size: .5rem;
     }
@@ -218,10 +209,5 @@
     .direitos span {
         font-size: .5rem;
     }
-
-    .conteiner-menu {
-        height: 26vh;
-    }
-
 
 }

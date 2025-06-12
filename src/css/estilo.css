@@ -94,7 +94,11 @@ body {
 
 .menu li a {
     display: flex;
-    gap: 10px;
+    gap: 10px; 
+}
+
+.menu li a:hover {
+    color: #f47f31;
 }
 
 .navegacao .menu li img {
