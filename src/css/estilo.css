@@ -108,6 +108,7 @@ body {
 
 .menu li a:hover {
     color: #f47f31;
+    transform: scale(1.1);
 }
 
 .navegacao .menu li img {

@@ -226,7 +226,7 @@
     }
 
     .informacao-vip {
-        height: 35vh;
+        height: 35dvh;
         text-align: center;
     }
 
@@ -308,6 +308,16 @@
 
     .direitos span {
         font-size: .5rem;
+    }
+
+    .informacao-vip {
+        height: 35dvh;
+        text-align: center;
+    }
+
+    .lista-vip {
+        width: 100%;
+        gap: 10px;
     }
 
 }
